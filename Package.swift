@@ -16,8 +16,7 @@ let package = Package(
             ],
             resources: [
                 .process("Resources")
-            ],
-            publicHeadersPath: "Leanplum-SDK/include"
+            ]
         )
     ]
 )
